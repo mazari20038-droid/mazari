@@ -1,0 +1,7 @@
+{
+  "name": "Creavo Pro - AI-Powered Professional Designer",
+  "description": "A world-class professional design platform for web and mobile. Create social media posts, logos, and business cards with advanced AI generation, layer management, and a vast library of templates.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
